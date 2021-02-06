@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/PHOTO-EDITOR-PROJECT/static/css/main.e1d66525.chunk.css",
+    "main.js": "/PHOTO-EDITOR-PROJECT/static/js/main.7f0f7d8d.chunk.js",
+    "main.js.map": "/PHOTO-EDITOR-PROJECT/static/js/main.7f0f7d8d.chunk.js.map",
+    "runtime-main.js": "/PHOTO-EDITOR-PROJECT/static/js/runtime-main.03bd53e6.js",
+    "runtime-main.js.map": "/PHOTO-EDITOR-PROJECT/static/js/runtime-main.03bd53e6.js.map",
+    "static/js/2.38bb9779.chunk.js": "/PHOTO-EDITOR-PROJECT/static/js/2.38bb9779.chunk.js",
+    "static/js/2.38bb9779.chunk.js.map": "/PHOTO-EDITOR-PROJECT/static/js/2.38bb9779.chunk.js.map",
+    "static/js/3.6a29edc3.chunk.js": "/PHOTO-EDITOR-PROJECT/static/js/3.6a29edc3.chunk.js",
+    "static/js/3.6a29edc3.chunk.js.map": "/PHOTO-EDITOR-PROJECT/static/js/3.6a29edc3.chunk.js.map",
+    "index.html": "/PHOTO-EDITOR-PROJECT/index.html",
+    "static/css/main.e1d66525.chunk.css.map": "/PHOTO-EDITOR-PROJECT/static/css/main.e1d66525.chunk.css.map",
+    "static/js/2.38bb9779.chunk.js.LICENSE.txt": "/PHOTO-EDITOR-PROJECT/static/js/2.38bb9779.chunk.js.LICENSE.txt",
+    "static/media/photo1.777afb19.jpeg": "/PHOTO-EDITOR-PROJECT/static/media/photo1.777afb19.jpeg",
+    "static/media/photo10.add36828.jpeg": "/PHOTO-EDITOR-PROJECT/static/media/photo10.add36828.jpeg",
+    "static/media/photo2.1e33f1a3.jpeg": "/PHOTO-EDITOR-PROJECT/static/media/photo2.1e33f1a3.jpeg",
+    "static/media/photo3.12ae9907.jpeg": "/PHOTO-EDITOR-PROJECT/static/media/photo3.12ae9907.jpeg",
+    "static/media/photo4.6b238c70.jpeg": "/PHOTO-EDITOR-PROJECT/static/media/photo4.6b238c70.jpeg",
+    "static/media/photo5.ee15ab6f.jpeg": "/PHOTO-EDITOR-PROJECT/static/media/photo5.ee15ab6f.jpeg",
+    "static/media/photo6.fd9f6265.jpeg": "/PHOTO-EDITOR-PROJECT/static/media/photo6.fd9f6265.jpeg",
+    "static/media/photo7.3a3ed14a.jpeg": "/PHOTO-EDITOR-PROJECT/static/media/photo7.3a3ed14a.jpeg",
+    "static/media/photo8.b9e79374.jpeg": "/PHOTO-EDITOR-PROJECT/static/media/photo8.b9e79374.jpeg",
+    "static/media/photo9.03c0ce43.jpeg": "/PHOTO-EDITOR-PROJECT/static/media/photo9.03c0ce43.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03bd53e6.js",
+    "static/js/2.38bb9779.chunk.js",
+    "static/css/main.e1d66525.chunk.css",
+    "static/js/main.7f0f7d8d.chunk.js"
+  ]
+}
