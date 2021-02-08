@@ -7,14 +7,17 @@
   grid-template-columns: 1fr 1fr;
   grid-template-rows: repeat(5, 1fr);
   align-items: center;
-  width: 100%;
+  width: 80%;
   height: 80vh;
   overflow: scroll;
   overflow-x: hidden;
+  margin: 0 auto;
 }
 @media screen and (max-width: 1400px) {
   .image {
     object-fit: cover;
-    height: 50%;
+  }
+  .imageDiv {
+    height: 50vh;
   }
 }
