@@ -15,5 +15,6 @@
 @media screen and (max-width: 1400px) {
   .image {
     object-fit: cover;
+    height: 50%;
   }
 }
