@@ -12,6 +12,7 @@ const Photos = (props) => {
           {imageArr.map((image, index) => {
             return (
               <img
+                key={index}
                 className={styles.image}
                 onClick={() => props.imageHandler(index)}
                 src={image.img}
