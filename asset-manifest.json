@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/PHOTO-EDITOR-PROJECT/static/css/main.e1d66525.chunk.css",
-    "main.js": "/PHOTO-EDITOR-PROJECT/static/js/main.7f0f7d8d.chunk.js",
-    "main.js.map": "/PHOTO-EDITOR-PROJECT/static/js/main.7f0f7d8d.chunk.js.map",
+    "main.css": "/PHOTO-EDITOR-PROJECT/static/css/main.7b4ccab6.chunk.css",
+    "main.js": "/PHOTO-EDITOR-PROJECT/static/js/main.75475f2b.chunk.js",
+    "main.js.map": "/PHOTO-EDITOR-PROJECT/static/js/main.75475f2b.chunk.js.map",
     "runtime-main.js": "/PHOTO-EDITOR-PROJECT/static/js/runtime-main.03bd53e6.js",
     "runtime-main.js.map": "/PHOTO-EDITOR-PROJECT/static/js/runtime-main.03bd53e6.js.map",
     "static/js/2.38bb9779.chunk.js": "/PHOTO-EDITOR-PROJECT/static/js/2.38bb9779.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.6a29edc3.chunk.js": "/PHOTO-EDITOR-PROJECT/static/js/3.6a29edc3.chunk.js",
     "static/js/3.6a29edc3.chunk.js.map": "/PHOTO-EDITOR-PROJECT/static/js/3.6a29edc3.chunk.js.map",
     "index.html": "/PHOTO-EDITOR-PROJECT/index.html",
-    "static/css/main.e1d66525.chunk.css.map": "/PHOTO-EDITOR-PROJECT/static/css/main.e1d66525.chunk.css.map",
+    "static/css/main.7b4ccab6.chunk.css.map": "/PHOTO-EDITOR-PROJECT/static/css/main.7b4ccab6.chunk.css.map",
     "static/js/2.38bb9779.chunk.js.LICENSE.txt": "/PHOTO-EDITOR-PROJECT/static/js/2.38bb9779.chunk.js.LICENSE.txt",
     "static/media/photo1.777afb19.jpeg": "/PHOTO-EDITOR-PROJECT/static/media/photo1.777afb19.jpeg",
     "static/media/photo10.add36828.jpeg": "/PHOTO-EDITOR-PROJECT/static/media/photo10.add36828.jpeg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.03bd53e6.js",
     "static/js/2.38bb9779.chunk.js",
-    "static/css/main.e1d66525.chunk.css",
-    "static/js/main.7f0f7d8d.chunk.js"
+    "static/css/main.7b4ccab6.chunk.css",
+    "static/js/main.75475f2b.chunk.js"
   ]
 }
